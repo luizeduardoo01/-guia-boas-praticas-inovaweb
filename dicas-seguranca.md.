@@ -1,0 +1,6 @@
+## 🔐Boas Práticas de Senhas e Navegação Segura
+
+- **Use frases-senha longas:** Combine 3 ou 4 palavras aleatórias com números e símbolos (mínimo de 14 caracteres, ex: `Abacaxi-Telescopio-Chuva89!`).
+- **Não reutilize senhas:** Utilize um gerenciador (ex: Bitwarden, 1Password) para criar e armazenar combinações únicas para cada serviço.
+- **Ative o 2FA por aplicativo:** Priorize apps autenticadores (Google Authenticator, Authy) ou chaves físicas em vez de SMS.
+- **Valide links e conexões:** Confira o `https://` e o domínio antes de inserir dados, mantenha o navegador atualizado e evite Wi-Fi público sem VPN.
